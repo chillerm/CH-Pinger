@@ -1,4 +1,4 @@
-package hillermann.carl.learning.kotlin.spring.rest.simple
+package hillermann.carl.learning.kotlin.spring.rest.simple.greeting
 
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RequestParam
